@@ -9,4 +9,6 @@ Those variables are: ```Avg_Area_Income```,	```Avg_Area_House_Age```,	```Avg_Are
 
 Here are their correlations:
 
+![](images/corr().png)
+
 By Using Linear Regression, it was possible to achieve an accuracy of $R² = ~91.7%$
